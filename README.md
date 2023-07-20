@@ -29,11 +29,16 @@ The section for the whole process of deployment: how to buy a custom domain at N
 2. Sign in or sign up if you don't have an account.
 3. Click button "Add a website or an application".
 4. Enter your custom domain in the search box. Click "add site".
+![add site](img/add%20site.png)
 5. Choose your preffered package (Free, Pro, Business, Enterprise) according to your needs.
+![package](img/package.png)
 6. Review your DNS records and then "Continue", and "Confirm" to set up your DNS.
 7. Cloudfare will ask you to change your nameservers on the registar's service page.
+![name server cloudflare](img/nameserver%201.png)
 8. Copy the two nameservers given by Cloudfare to your Niagahoster account.
-9. After that, copy your Netlify's original domain, and go back to Cloudfare.
+![name server niaga hoster](img/%20namesever%202.png)
+![name server niaga hoster 2](img/nameserver%203.png)
+9.  After that, copy your Netlify's original domain, and go back to Cloudfare.
 10. In an section "DNS" go to the "records".
 11. Go to "Add record" and select the "type" with Cname.
 12. And the "Name" fill witth youre custom domain.
@@ -41,6 +46,7 @@ The section for the whole process of deployment: how to buy a custom domain at N
 14. Also in the DNS record section you can add the "Name" with WWW.
 15. proceed to "Save".
 16. Go back to Netlify - Domain section and click "Add a domain".
+![add domain](img/add%20domain.png)
 
 
 
