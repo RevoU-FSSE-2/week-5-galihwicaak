@@ -3,6 +3,7 @@
 A website dedicated to my Business based in bandung, you will find our best seller products, and you can find our event and activities and the last sessions you can find our media social. 
 
 [houseofmooja.com](www.houseofmooja.com) 
+![preview website](img/prev.png)
 
 # Development Process
 
